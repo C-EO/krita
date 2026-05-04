@@ -1,16 +1,1 @@
-<svg width="100px" height="30px"
-    xmlns="http://www.w3.org/2000/svg" version="1.1">
-
-<g id="test">
-
-    <rect id="boundingRect" x="4" y="5" width="89" height="19"
-        fill="none" stroke="red"/>
-
-    <text id="testRect" x="2" y="24"
-        font-family="DejaVu Sans" font-size="15" fill="blue" stroke="red" stroke-width="1">
-        S&#x00A0;A
-    </text>
-
-</g>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="30" version="1.1"><g id="test"><rect id="boundingRect" width="89" height="19" x="4" y="5" fill="none" stroke="red"/><text id="testRect" x="2" y="24" fill="#00f" stroke="red" stroke-width="1" font-family="DejaVu Sans" font-size="15">S A</text></g></svg>
